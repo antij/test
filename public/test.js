@@ -7,4 +7,4 @@ document.write(test2);
 
 document.writeln(test.indexOf());
 
-document.writeln
+document.writeln('hey');
